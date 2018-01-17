@@ -5,9 +5,7 @@ RayTracing Engine
 <img src="https://github.com/DaniRuizPerez/RayTracingEngine/blob/master/triangle out of view.png" width="500">
 </p>
 
-This raytracing engine was a project for the Interactions, Graphics and Multimedia course of my Master of Science in Computer Science at UDC (Spain).
-
-
+This raytracing engine was a project for the Interactions, Graphics and Multimedia course of my Master of Science in Computer Science at UDC (Spain). It is based on a simple engine provided by the professors, and we expanded its functionalities, with different shapes, lights, etc. Different predefined scenes can be rendered using command line arguments.
 
 
 ## Tools and execution
